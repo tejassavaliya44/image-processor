@@ -4,7 +4,7 @@ The system allows users to upload CSV file containing image URLs, compresses the
 
 ## System Architecture Diagram
 
-![System Architecture](https://raw.githubusercontent.com/yourusername/yourrepository/architecture.jpg)
+![System Architecture](https://github.com/tejassavaliya44/image-processor/blob/main/architecture.jpg)
 
 ## System Components and Their Roles
 
